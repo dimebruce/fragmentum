@@ -10,6 +10,30 @@
 
 Clon de Instagram hecho en Laravel 9, utilizando todas sus actualizaciones, recursos, módulos y demás. Utilicé la librería de Tailwind para los estilos, dropzone para imágenes, tinker y más.
 
+## El proyecto tiene
+
+- Registro de usuarios
+- Validaciones
+- login
+- Token de inicio de sesión para mantenerla abierta
+- Routeo de url, con el username en la dirección
+- Edicción de username e imagen de perfil
+- Posteo de imagenes con dropzone
+- Borrar un post
+- Autenticación de páginas
+- Páginación con Tailwind en los blade
+- Seguir a un usuario
+- Dejar de seguir a un usuario
+- Dar like y dislike a un post
+- Poder comentar el post
+- Seguridad
+- Relaciones con el ORM de Laravel
+- Base de datos relacional con Eloquent
+- Consultas a la DB con Eloquent
+
+- Y más. ☺
+
+
 
 ## License
 
